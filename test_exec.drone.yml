@@ -9,4 +9,4 @@ platform:
 steps:
 - name: exec_sample
   commands:
-  - echo hello_world
+  - echo hello_world yade
